@@ -10,7 +10,7 @@ enjoy your parrot os system...
 
 
 1. Clone the repository first:
-2. ```git clone https://github.com/EDOH98/Parrotos_Desktop-termux.git```
+2. ```git clone https://github.com/EDOH98/Parrotos_Desktop_termux.git```
 3. 
 4. ```cd Parrotos_Desktop_termux```
 5. 
