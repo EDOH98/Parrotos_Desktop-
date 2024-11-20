@@ -6,6 +6,8 @@ i decided to come over and help
 
 enjoy your parrot os system...
 
+![preview](screenshots/)
+
 
 1. Clone the repository first:
 2. ```git clone https://github.com/edoh98/Parrotos_Desktop_termux.git```
