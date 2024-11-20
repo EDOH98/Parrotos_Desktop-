@@ -6,7 +6,7 @@ i decided to come over and help
 
 enjoy your parrot os system...
 
-![preview](screenshots/)
+![preview](screenshots/Screenshot_20241108-142734.jpg)
 
 
 1. Clone the repository first:
