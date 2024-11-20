@@ -17,3 +17,5 @@ enjoy your parrot os system...
 6. ```chmod 0755 *```
 7. 
 8. ```bash install_parrot_Desktop.sh```
+
+![preview](screenshots/Screenshot_20241108-144509.jpg)
