@@ -9,6 +9,9 @@ enjoy your parrot os system...
 
 1. Clone the repository first:
 2. ```git clone https://github.com/edoh98/Parrotos_Desktop_termux.git```
-3. ```cd Parrotos_Desktop_termux```
-4. ```chmod 0755 *```
-5. ```bash ```
+3. 
+4. ```cd Parrotos_Desktop_termux```
+5. 
+6. ```chmod 0755 *```
+7. 
+8. ```bash install_parrot_Desktop.sh```
